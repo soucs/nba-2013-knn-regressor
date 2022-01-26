@@ -1,4 +1,4 @@
-# nba-2013-knn-regressor
+# NBA 2013: Points Prediction KNN Regression
 Using the K-nearest neighbors algorithm to predict how many points NBA players scored in the 2013-2014 season
 
 
